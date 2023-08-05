@@ -182,7 +182,7 @@ void HelloWorld:: SAY_HELLO_cmdHandler(FwOpcodeType opCode, U32 cmdSeq, const Fw
 >
 > }
 > ```
-> Should be added to the `HelloWorld` constructor at the top of the file.
+> Should be added to the `HelloWorld` constructor at the top of `HelloWorld.cpp`.
 
 The component should build without errors by running `fprime-util build`.  Resolve any errors that occur before
 proceeding to the next section. Remember to always save before you build, unsaved changes will not be included in the build.
