@@ -31,7 +31,7 @@ This command will ask for some input. Respond with the following answers:
 Deployment name [MyDeployment]: HelloWorldDeployment
 ```
 
-> For any other questions, select the default response.
+> For any other questions, select the default response (yes).
 
 At this point, the `HelloWorldDeployment` has been created, but our `HelloWorld` component has not been added to the deployment.
 
